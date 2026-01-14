@@ -1,0 +1,15 @@
+# Arquivos compilados
+*.class
+
+# Histórico local
+history.json
+
+# Variáveis de ambiente
+.env
+
+# IDE
+.idea/
+*.iml
+
+# SO
+.DS_Store
