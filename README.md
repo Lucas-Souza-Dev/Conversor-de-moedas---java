@@ -19,11 +19,14 @@ IntelliJ IDEA
 src/
 ├── app/
 │   └── Main.java
+
 ├── api/
 │   └── ExchangeRateApiClient.java
+
 ├── service/
 │   ├── CurrencyService.java
 │   └── HistoryService.java
+
 ├── model/
 │   ├── ExchangeRateResponse.java
 │   └── ConversionHistory.java
