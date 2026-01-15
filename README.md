@@ -17,19 +17,17 @@ IntelliJ IDEA
 
 📂 Estrutura do Projeto
 src/
-├── app/
-│   └── Main.java
+app/Main.java
 
-├── api/
-│   └── ExchangeRateApiClient.java
+api/
+ExchangeRateApiClient.java
 
-├── service/
-│   ├── CurrencyService.java
-│   └── HistoryService.java
+service/
+CurrencyService.java ;       HistoryService.java
 
-├── model/
-│   ├── ExchangeRateResponse.java
-│   └── ConversionHistory.java
+model/
+ExchangeRateResponse.java
+ConversionHistory.java
 
 🔑 Configuração da API Key
 
